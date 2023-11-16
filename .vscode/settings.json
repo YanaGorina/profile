@@ -1,0 +1,34 @@
+{
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": false,
+    "deno.cacheOnSave": true,
+
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+    "typescript.inlayHints.parameterNames.suppressWhenArgumentMatchesName": true,
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "typescript.inlayHints.parameterTypes.enabled": true,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "typescript.inlayHints.variableTypes.enabled": true,
+    "javascript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+    "typescript.inlayHints.variableTypes.suppressWhenTypeMatchesName": true,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+  
+    "editor.inlayHints.padding": false,
+    "editor.inlayHints.fontSize": 11,
+    "workbench.colorCustomizations": {
+      "editorInlayHint.background": "#6a6a8739",
+      "editorCodeLens.foreground": "#6a6a87a0"
+    },
+    "tailwindCSS.includeLanguages": {
+      "njk": ""
+    }
+}

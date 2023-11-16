@@ -1,5 +1,6 @@
 ---
 layout: layout.njk
+title: Yana Gorina
 ---
 
-This is my website
+YANA GORINA
